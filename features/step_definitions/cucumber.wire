@@ -1,0 +1,6 @@
+host: localhost
+port: 2011
+timeout:
+  invoke : :never
+  begin_scenario: 35
+  end_scenario: 35
