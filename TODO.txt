@@ -1,7 +1,0 @@
-Investigate JSON support for erlang.  All cucumber is doing is sending
-straight json requests to us with the body as the step and the arguments
-as a hash appended to the body.  We should be able to test exactly that
-just by spinning up on the port and listening.  Not sure best way to
-test.
-
-Oliver
